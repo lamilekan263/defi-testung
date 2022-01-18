@@ -13,7 +13,7 @@ function App() {
       <Header/>
       <div className="h-screen bg-gray-200 pt-10 md:pt-20 px-2">
 
-         <div className="w-full md:w-5/12  p-2 shadow-md rounded-lg mx-auto bg-white ">
+         <div className="w-full md:w-6/12 lg:5/12  p-2 shadow-md rounded-lg mx-auto bg-white ">
 
        <Tab.Group>
       <Tab.List className="flex p-1 space-x-1 -mt-2 bg-white rounded-md">
@@ -65,7 +65,7 @@ function App() {
                   </div>
                 </div>
         </Tab.Panel>
-              <Tab.Panel className="p-10">
+              <Tab.Panel className="p-1 lg:p-10">
 
                 <div className="border-2 border-gray-300 my-5 rounded-md">
                   <div className="flex  justify-center ">
