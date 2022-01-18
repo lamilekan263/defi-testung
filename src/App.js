@@ -40,7 +40,10 @@ function App() {
                 <div>
                   <div className="my-5 flex gap-2 px-5">
                     <div className="flex-1">
-                    
+                      <div className="bg-gray-100 p-3 rounded-full text-center">
+                        <p className="font-bold text-md">UST</p>
+                        <p className="font-thin text-sm">price: $1</p>
+                      </div>
                     </div>
                     <div className="flex-1">
                      
